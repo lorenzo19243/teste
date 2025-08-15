@@ -1,0 +1,3 @@
+User-Agent: *
+Disallow: /config
+Disallow: /includes
